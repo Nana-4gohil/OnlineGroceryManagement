@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nanabhai\\source\\repos\\OnlineGrocery\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE36B68-63E0-4969-B4B0-6E3EDE01292F}|OnlineGrocery\\OnlineGrocery.csproj|c:\\users\\nanabhai\\source\\repos\\onlinegrocery\\onlinegrocery\\view\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{AEE36B68-63E0-4969-B4B0-6E3EDE01292F}|OnlineGrocery\\OnlineGrocery.csproj|solutionrelative:onlinegrocery\\view\\admin\\adminmaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE36B68-63E0-4969-B4B0-6E3EDE01292F}|OnlineGrocery\\OnlineGrocery.csproj|C:\\Users\\Nanabhai\\source\\repos\\OnlineGrocery\\onlinegrocery\\view\\admin\\sellers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{AEE36B68-63E0-4969-B4B0-6E3EDE01292F}|OnlineGrocery\\OnlineGrocery.csproj|solutionrelative:onlinegrocery\\view\\admin\\sellers.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE36B68-63E0-4969-B4B0-6E3EDE01292F}|OnlineGrocery\\OnlineGrocery.csproj|C:\\Users\\Nanabhai\\source\\repos\\OnlineGrocery\\onlinegrocery\\view\\admin\\sellers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE36B68-63E0-4969-B4B0-6E3EDE01292F}|OnlineGrocery\\OnlineGrocery.csproj|solutionrelative:onlinegrocery\\view\\admin\\sellers.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE36B68-63E0-4969-B4B0-6E3EDE01292F}|OnlineGrocery\\OnlineGrocery.csproj|C:\\Users\\Nanabhai\\source\\repos\\OnlineGrocery\\onlinegrocery\\model\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE36B68-63E0-4969-B4B0-6E3EDE01292F}|OnlineGrocery\\OnlineGrocery.csproj|solutionrelative:onlinegrocery\\model\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminMaster.Master",
+              "DocumentMoniker": "C:\\Users\\Nanabhai\\source\\repos\\OnlineGrocery\\OnlineGrocery\\View\\Admin\\AdminMaster.Master",
+              "RelativeDocumentMoniker": "OnlineGrocery\\View\\Admin\\AdminMaster.Master",
+              "ToolTip": "C:\\Users\\Nanabhai\\source\\repos\\OnlineGrocery\\OnlineGrocery\\View\\Admin\\AdminMaster.Master",
+              "RelativeToolTip": "OnlineGrocery\\View\\Admin\\AdminMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-11T04:20:19.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sellers.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Nanabhai\\source\\repos\\OnlineGrocery\\OnlineGrocery\\View\\Admin\\Sellers.aspx.cs",
+              "RelativeDocumentMoniker": "OnlineGrocery\\View\\Admin\\Sellers.aspx.cs",
+              "ToolTip": "C:\\Users\\Nanabhai\\source\\repos\\OnlineGrocery\\OnlineGrocery\\View\\Admin\\Sellers.aspx.cs",
+              "RelativeToolTip": "OnlineGrocery\\View\\Admin\\Sellers.aspx.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAqwAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:40:32.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sellers.aspx",
+              "DocumentMoniker": "C:\\Users\\Nanabhai\\source\\repos\\OnlineGrocery\\OnlineGrocery\\View\\Admin\\Sellers.aspx",
+              "RelativeDocumentMoniker": "OnlineGrocery\\View\\Admin\\Sellers.aspx",
+              "ToolTip": "C:\\Users\\Nanabhai\\source\\repos\\OnlineGrocery\\OnlineGrocery\\View\\Admin\\Sellers.aspx",
+              "RelativeToolTip": "OnlineGrocery\\View\\Admin\\Sellers.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-05T12:37:49.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\Users\\Nanabhai\\source\\repos\\OnlineGrocery\\OnlineGrocery\\Model\\Functions.cs",
+              "RelativeDocumentMoniker": "OnlineGrocery\\Model\\Functions.cs",
+              "ToolTip": "C:\\Users\\Nanabhai\\source\\repos\\OnlineGrocery\\OnlineGrocery\\Model\\Functions.cs",
+              "RelativeToolTip": "OnlineGrocery\\Model\\Functions.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:23:04.77Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
